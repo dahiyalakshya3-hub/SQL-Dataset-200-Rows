@@ -1,3 +1,13 @@
+
+
+SQL-Sales-Dataset-200-Rows/
+│
+├── README.md
+├── SQL_Sales_Dataset_200_Rows.sql
+└── dataset/
+    └── SQL_Sales_Dataset_200_Rows.csv
+
+
 # SQL Sales Dataset – 200 Rows
 
 ## 📌 Project Overview
